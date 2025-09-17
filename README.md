@@ -1,5 +1,5 @@
 # Drive Thru Ordering System
-
+![Example UI](./image.png)
 # Setup Instructions
 
 1. **Clone the Repository**: 
@@ -27,7 +27,7 @@
     ```
 6. Run the frontend (in a new terminal):
    ```bash
-   cd ../frontend
+   cd voker-assessment/frontend
    npm install
    npm run dev
    ```
